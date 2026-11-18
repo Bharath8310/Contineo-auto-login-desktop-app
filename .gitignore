@@ -1,0 +1,10 @@
+browser_profiles/
+users.json
+app.log
+dist/
+build/
+*.spec
+.env
+__pycache__/
+.venv/
+tools/selectors_dump.txt
